@@ -1,0 +1,10 @@
+@charset "utf-8";
+/* CSS Document */
+h1 {text-align:center;}
+h1 {
+	font-family: Consolas, 'Andale Mono', 'Lucida Console', 'Lucida Sans Typewriter', Monaco, 'Courier New', 'monospace'
+}
+body {background-color:violet}
+.p1{text-align:center}
+.p2{text-align:center}
+.p2{font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", "monospace"}
